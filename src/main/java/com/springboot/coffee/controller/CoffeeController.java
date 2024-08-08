@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/coffee")
 public class CoffeeController {
     public String getCoffee(){
-        return "Hello Coffee World!";
+        return "Hello Coffee World! freegms";
     }
 }
